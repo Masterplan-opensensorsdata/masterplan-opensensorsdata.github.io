@@ -287,9 +287,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2771875"
-     inkscape:cx="439.23337"
-     inkscape:cy="910.70151"
+     inkscape:zoom="0.39200232"
+     inkscape:cx="727.84667"
+     inkscape:cy="766.39486"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -3969,7 +3969,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.92432404px;line-height:125%;font-family:'HelveticaNeueLT Std Med';-inkscape-font-specification:'HelveticaNeueLT Std Med, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.92432404px;line-height:125%;font-family:'HelveticaNeueLT Std Med';-inkscape-font-specification:'HelveticaNeueLT Std Med, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="69.158508"
        y="-175.9012"
        id="text9133"
@@ -3978,24 +3978,24 @@
          id="tspan9135"
          x="69.158508"
          y="-175.9012"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.84865952px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999;">masterplan.opensensorsdata.it</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.84865952px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#999999">www.masterplan.tools</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4610"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'HelveticaNeueLT Std Med';-inkscape-font-specification:'HelveticaNeueLT Std Med, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(4.9536955,0,0,4.9536955,-5849.7387,-3152.2503)"><flowRegion
+       transform="matrix(4.9085706,0,0,4.9085706,-5787.2512,-3133.6075)"><flowRegion
          id="flowRegion4612"><rect
            id="rect4614"
            width="400.45096"
            height="324.68997"
            x="1378.1285"
            y="405.86246" /></flowRegion><flowPara
-         id="flowPara4616"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">il riuso</flowPara><flowPara
-         id="flowPara4618"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">è un'azione</flowPara><flowPara
-         id="flowPara4620"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">individuale</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara5671">il riuso è</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara6163">un'azione</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara6165">individuale</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4622"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
